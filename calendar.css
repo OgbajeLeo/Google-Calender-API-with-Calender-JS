@@ -76,11 +76,11 @@
 }
 
 .jsCalendar thead .jsCalendar-nav-left:after {
-  content: "<";
+  content: "<<";
 }
 
 .jsCalendar thead .jsCalendar-nav-right:after {
-  content: ">";
+  content: ">>";
 }
 
 .jsCalendar thead .jsCalendar-week-days th {
